@@ -1,0 +1,3 @@
+useState - React manages state inside your applications & when that state changes, 
+           it re-render things for us
+useEffect - 
